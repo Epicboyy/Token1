@@ -1,12 +1,12 @@
-# Alphat
-Bot Token v.1.0.0
+
+#Bot Token v.1.0.0
 ------
 Header :
 ------
 - `UA = CHROMEOS\t1.4.17\tChrome_OS\t1`
 - `LA = Line/1.4.17`
 
-Cara Install Bot Token Di Termux :
+Termux :
 ------
 - `pkg install nodejs -y`
 - `pkg install git -y`
@@ -18,10 +18,8 @@ Cara Install Bot Token Di Termux :
 - `npm i -g npm (Jika Update)`
 - `npm start`
 
-Cara Install Bot Token Di C9/Server:
+VPS:
 ------
-- =================  [PROSES UPDATE]  =================
-- ==============================================
 
 - `sudo apt-get update`
 -`sudo apt-get install build-essential checkinstall libssl-dev`
@@ -45,14 +43,7 @@ Cara Menjalankan Bot Kembali :
 - `cd Token1`
 - `npm start`
 
-Tutorial Video :
-------
-- `https://youtu.be/wdplUqUtX7Q`
 
-Thx To :
-------
-- `Alfatdirk`
-- `Nadyatjia`
 
 
 
